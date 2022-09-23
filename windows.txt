@@ -1,5 +1,5 @@
 1. Login 
 2. Session Management
-3. Forest Weather
-4. Logout
-
+3. Forest Weather + Chat Bot
+4. Help Section
+5. Logout
