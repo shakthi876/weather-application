@@ -1,4 +1,4 @@
-1. Login 
+1. Login + Google Login
 2. Session Management
 3. Forest Weather
 4. Logout
