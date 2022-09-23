@@ -1,4 +1,0 @@
-1. Login 
-2. Session Management
-3. Forest Weather
-4. Logout
