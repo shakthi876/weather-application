@@ -1,8 +1,0 @@
-React Js
-Mongo dB
-Node Js
-Express Js
-HTML
-CSS
-JS
-Tailwind CSS
